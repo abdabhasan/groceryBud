@@ -14,12 +14,12 @@ To get started with this project, you need to have the following:
 Follow the steps below to set up and run the project:
 
 1.  Clone the repository:
-    git clone https://github.com/abdabhasan/groceryBud.git
+    `git clone https://github.com/abdabhasan/groceryBud.git`
 2.  Navigate to the project directory:
-    cd groceryBud
+    `cd groceryBud`
 3.  Install the dependencies:
-    npm install
+    `npm install`
 4.  Start the development server:
-    npm run dev
+    `npm run dev`
 
 - note that you can also check the app at this URL https://abdabhasan-grocery-bud.netlify.app
